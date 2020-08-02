@@ -1,9 +1,9 @@
 
-# This is my solution to Second project of Udacity Deep learning nanaodegree to train a Dog Classifier using Convolution neural network.
+## This is my solution to Second project of Udacity Deep learning nanaodegree to train a Dog Classifier using Convolution neural network.
 
-# This README is modified form Udacity's provided one
+### This README is modified form Udacity's provided one
 
-# Open the notebook dog_app.ipynb and download the dataset accordingly from this 
+#### Open the notebook dog_app.ipynb and download the dataset accordingly from this 
 
 
 [//]: # (Image References)
